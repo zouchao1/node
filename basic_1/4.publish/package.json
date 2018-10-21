@@ -1,0 +1,19 @@
+{
+  "name": "gp8-common-util",
+  "version": "1.1.0",
+  "description": "一些通用的工具，例如，数学运算等...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "工具",
+    "运算"
+  ],
+  "author": "983357618@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "underscore": "^1.9.1"
+  }
+}
